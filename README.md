@@ -16,9 +16,9 @@ Footer: The footer typically contains links to various section of the website su
 
 Responsive Design: As it adjusts its layout and elements based on screen size and device used to access it.
 
-##Technoligies used:
+## Technoligies used:
 
-  .HTML   .CSS
+  .HTML          .CSS
 
 Live demo: http://127.0.0.1:5500/index.html
 
