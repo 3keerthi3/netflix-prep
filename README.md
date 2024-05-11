@@ -1,4 +1,4 @@
-NETFLIX
+## NETFLIX CLONE
 
 
 A Netflix clone page created using HTML and CSS would aim to replicate the look and feel of the netflix website.
