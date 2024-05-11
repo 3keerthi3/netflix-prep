@@ -16,11 +16,12 @@ Footer: The footer typically contains links to various section of the website su
 
 Responsive Design: As it adjusts its layout and elements based on screen size and device used to access it.
 
+Live demo: http://127.0.0.1:5500/index.html
+
 ## Technoligies used:
 
   .HTML          .CSS
 
-Live demo: http://127.0.0.1:5500/index.html
 
 ## How to use:
 We can just simply click on the index.html for the home page and to sign in click on the button "sign in" on top right corner
